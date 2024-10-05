@@ -1,27 +1,27 @@
 
-<h1 align="center">Hi 👋, I'm Shiv Shankar Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">A passionate Programmer and Developer from India</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center">  
- <img src="https://img.shields.io/badge/Languages-C | C++ | JavaScript |  Typescript | Node | React | React Native| NextJs| -blue.svg" alt="Shiv Shankar's languages" />
+ <img src="https://img.shields.io/badge/Languages-Java| C | C++ | JavaScript | Dart | Typescript | Node | React | React Native| NextJs| -blue.svg" alt="Prabhat's languages" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I have experience as intern on **Psamathe Technology** and **Suvidha Foundation**
+- 🔭 I have experience as intern on **Digital Brain Media**, **Kirabiz** and **Svapak**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **competitive programming**
 
 - 👨‍💻 All of my projects are available at [Shiv Shankar Kushwaha](https://shivshankar.vercel.app/)
 
-- 💬 Ask me about **JavaScript, MongoDB, TypeScript and NodeJS**
+- 💬 Ask me about **Flutter, Firebase, JavaScript, MongoDB, and NodeJS**
 
-- 📫 How to reach me **shivshankarkushwaha0000@gmail.com**
+- 📫 How to reach me **hendramyuv@gmail.com**
 
 - 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1jgpX7Eqt5wdnH9LJPSddEIwh2FEcoNav/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm passionate for my career**
 
 <br>
 <h3 align="left">Connect with me:</h3>
