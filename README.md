@@ -19,17 +19,17 @@
 
 - 📫 How to reach me **hendramyuv@gmail.com**
 
-- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1jgpX7Eqt5wdnH9LJPSddEIwh2FEcoNav/view?usp=sharing)
+- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1lFQejmNTYjqWwpq_j8QB0wxb2YteUXkq/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm passionate for my career**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/codessk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivSha77163441" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shiv-shankar-kushwaha-4083a3250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShivShankarKushwaha" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shiv_9956" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiv_9956" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivshankarkushwaha0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivshankarkushwaha0000" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/prabhat-kumar222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShivShankarKushwaha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pra5713" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiv_9956" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/prabhat5617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivshankarkushwaha0000" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
